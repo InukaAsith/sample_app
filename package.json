@@ -1,0 +1,28 @@
+{
+  "name": "madhack-2024-ieee-ucsc",
+  "version": "1.0.0",
+  "description": "MADHack 2024 - The Ultimate Mobile App Development Hackathon by IEEE UCSC",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site - no build needed'",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "hackathon",
+    "mobile-app",
+    "development",
+    "ieee",
+    "ucsc",
+    "competition",
+    "programming",
+    "innovation"
+  ],
+  "author": "IEEE Student Branch UCSC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/madhack-2024"
+  },
+  "homepage": "https://madhack-2024.vercel.app"
+}
